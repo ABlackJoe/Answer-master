@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Answer-master.iml" filepath="$PROJECT_DIR$/.idea/modules/Answer-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Answer-master.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Answer-master.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Answer-master.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Answer-master.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Answer-master.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Answer-master.unitTest.iml" />
+    </modules>
+  </component>
+</project>
